@@ -12,8 +12,6 @@
 - [java-gate](https://github.com/4ra1n/) （Java JNI 实现的地狱之门/光环之门等直接系统调用）
 - [super-xray](https://github.com/4ra1n/super-xray) （长亭漏洞扫描工具 `XRAY` 的 `GUI` 启动器）
 
-由于某些原因删除的 [项目](PRIVATE.md) 如果有需要可以联系我
-
 一些安全相关的成果：[链接](SECURITY.md)
 
 ![Profile](https://github-readme-stats.vercel.app/api?username=4ra1n&show_icons=true&theme=dark)
