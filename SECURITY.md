@@ -48,8 +48,9 @@
 | 036 | Oracle | Weblogic | [CVE-2023-21979](https://www.oracle.com/security-alerts/cpuapr2023.html) | RCE |
 | 037 | Apache | Inlong | [CVE-2023-31058](https://www.cve.org/CVERecord?id=CVE-2023-31058) | RCE |
 | 038 | Oracle | Weblogic | [CVE-2023-22031](https://www.oracle.com/security-alerts/cpujul2023.html) | 其他 |
-| 039 | Apache | Inlong | [CVE-2023-34434](https://lists.apache.org/thread/7f1o71w5r732cspltmtdydn01gllf4jo) | 其他 |
+| 039 | Apache | Inlong | [CVE-2023-34434](https://lists.apache.org/thread/7f1o71w5r732cspltmtdydn01gllf4jo) | 文件读取 |
 | 041 | Apache | Felix | [CVE-2023-38435](https://lists.apache.org/thread/6qyroszcrwt5sjoxwhxfxb5nvtpr9th1) | XSS |
 | 042 | Apache | Helix | [CVE-2023-38647](https://lists.apache.org/thread/ozhkchy7ngy8zgjbbn6pfjjh0ppcqvb9) | RCE |
 | 043 | Metabase | Metabase | [CVE-2023-37470](https://github.com/metabase/metabase/security/advisories/GHSA-p7w3-9m58-rq83) | RCE |
+| 044 | Apache | Airflow | [CVE-2023-39553](https://lists.apache.org/thread/tjlwk10odmgcd0t48qpsoprlgny6tbv0) | 文件读取 |
 
