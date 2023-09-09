@@ -8,7 +8,7 @@
 - [shell-analyzer](https://github.com/4ra1n/shell-analyzer) （基于 `Java Agent` 的内存马查杀 `GUI` 工具）
 - [code-inspector](https://github.com/4ra1n/code-inspector) （模拟栈帧进行 `Java` 字节码分析工具）
 - [jar-analyzer-cli](https://github.com/4ra1n/jar-analyzer-cli) （根据 `JAR` 文件构建数据库以进行分析和查询）
-- [java-gate](https://github.com/4ra1n/) （Java JNI 实现的地狱之门/光环之门等直接系统调用）
-- [super-xray](https://github.com/4ra1n/super-xray) （长亭漏洞扫描工具 `XRAY` 的 `GUI` 启动器）
+
+一些漏洞记录：[CVE](SECURITY.md)
 
 ![Profile](https://github-readme-stats.vercel.app/api?username=4ra1n&show_icons=true&theme=dark)
