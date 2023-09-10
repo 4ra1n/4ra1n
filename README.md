@@ -11,4 +11,6 @@
 
 一些漏洞记录：[CVE](SECURITY.md)
 
+我们的安全团队：[Y4Sec-Team](https://github.com/Y4Sec-Team)
+
 ![Profile](https://github-readme-stats.vercel.app/api?username=4ra1n&show_icons=true&theme=dark)
