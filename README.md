@@ -4,7 +4,7 @@
 
 这些是开源项目：由于工作繁忙不一定有时间维护更新，欢迎各位师傅们讨论交流以及二开
 
-- [code-encryptor-plus](https://github.com/Y4Sec-Team/code-encryptor-plus) (使用 `JNI/JVMTI` 加密字节码以保护代码，支持自定义包名密钥，支持 `Windows` 和 `Linux` 系统)
+- [code-encryptor-plus](https://github.com/Y4Sec-Team/code-encryptor-plus) (使用 `JNI/JVMTI` 加密字节码以保护代码，支持自定义包名密钥，使用魔法禁止`dump`字节码)
 - [jar-analyzer-gui](https://github.com/4ra1n/jar-analyzer-gui) （一个分析和搜索 `JAR` 文件的 `GUI` 工具，提供多种搜索逻辑以及表达式搜索）
 - [jar-analyzer-cli](https://github.com/4ra1n/jar-analyzer-cli) （根据 `JAR` 文件构建数据库以进行分析和查询，保存了类和方法信息以及方法之间调用关系）
 - [mysql-fake-server](https://github.com/4ra1n/mysql-fake-server) （完全由 `Java` 编写的 `MySQL` 恶意服务端，用于测试反序列化和文件读取漏洞）
