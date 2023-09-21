@@ -10,6 +10,10 @@
 - [shell-analyzer](https://github.com/4ra1n/shell-analyzer) （基于 `Java Agent` 的内存马查杀 `GUI` 工具，实时分析内存马一键清除）
 - [code-inspector](https://github.com/4ra1n/code-inspector) （基于污点分析的 `Java` 字节码分析工具，使用模拟 `JVM` 栈帧的技术）
 
+<p align="center">
+  <img src="https://count.getloli.com/get/@4ra1n?theme=gelbooru" />
+</p>
+
 一些安全成果和 `CVE` 漏洞记录：[链接](SECURITY.md)
 
 我们的安全团队：[Y4Sec-Team](https://github.com/Y4Sec-Team)
