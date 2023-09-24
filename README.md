@@ -2,7 +2,7 @@
 
 我主要工作是开发，偶尔研究 `Java` 漏洞，使用的语言主要有 `Java/Golang/C` 等
 
-<p align="center">
+<p align="left">
   <img src="https://count.getloli.com/get/@4ra1n?theme=gelbooru" />
 </p>
 
