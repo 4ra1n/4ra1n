@@ -8,8 +8,4 @@
 
 一些安全成果和 `CVE` 漏洞记录：[链接](SECURITY.md)
 
-安全团队：[Y4Sec-Team](https://github.com/Y4Sec-Team)
-
-目前在做的开源项目：[Scan4J](https://scan4j.github.io)
-
 ![Profile](https://github-readme-stats.vercel.app/api?username=4ra1n&show_icons=true&theme=dark)
