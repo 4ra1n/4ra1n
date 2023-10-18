@@ -5,7 +5,7 @@
 - [Oracle 深度安全贡献者（2023年1月）](https://www.oracle.com/security-alerts/cpujan2023.html)
 - [Oracle 深度安全贡献者（2023年4月）](https://www.oracle.com/security-alerts/cpuapr2023.html)
 - [Oracle 深度安全贡献者（2023年7月）](https://www.oracle.com/security-alerts/cpujul2023.html)
-- [Spring Framework 5.3.22 贡献者 (安全相关)](https://github.com/spring-projects/spring-framework/releases/tag/v5.3.22)
+- [Oracle 深度安全贡献者（2023年10月）](https://www.oracle.com/security-alerts/cpuoct2023.html)
 
 由我以及我和朋友一起发现并报告的 CVE
 
@@ -56,4 +56,8 @@ CVE 类型仅两种：可 RCE / 不可 RCE （其他）
 | 042 | Apache | Helix | [CVE-2023-38647](https://lists.apache.org/thread/ozhkchy7ngy8zgjbbn6pfjjh0ppcqvb9) | RCE |
 | 043 | Metabase | Metabase | [CVE-2023-37470](https://github.com/metabase/metabase/security/advisories/GHSA-p7w3-9m58-rq83) | RCE |
 | 044 | Apache | Airflow | [CVE-2023-39553](https://lists.apache.org/thread/tjlwk10odmgcd0t48qpsoprlgny6tbv0) | 其他 |
+| 045 | Oracle | Weblogic | [CVE-2023-22069](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
+| 046 | Oracle | Weblogic | [CVE-2023-22086](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
+| 047 | Oracle | Weblogic | [CVE-2023-22089](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
+
 
