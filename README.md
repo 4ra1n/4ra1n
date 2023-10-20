@@ -4,7 +4,11 @@
 
 正在开发 `Jar Analyzer V2` (https://jar-analyzer.github.io/)
 
-考虑基于 `OpenJDK 8` 开发一个分支 (https://github.com/Y4Sec-Team/jdk8u)
+这是一个进阶版的 `Jar` 分析器，支持 `CFG` 和 `JVM Stack Frame` 分析等多种强大功能
+
+正在开发 `OpenJDK 8` 的一个分支 (https://github.com/Y4Sec-Team/jdk8u)
+
+计划在该分支中加入更多的安全特性，添加常用的工具类，并尝试删除过时的功能进行缩小
 
 <p align="left">
   <img src="https://count.getloli.com/get/@4ra1n?theme=gelbooru" />
