@@ -6,6 +6,7 @@
 - [Oracle 深度安全贡献者（2023年4月）](https://www.oracle.com/security-alerts/cpuapr2023.html)
 - [Oracle 深度安全贡献者（2023年7月）](https://www.oracle.com/security-alerts/cpujul2023.html)
 - [Oracle 深度安全贡献者（2023年10月）](https://www.oracle.com/security-alerts/cpuoct2023.html)
+- 向国内知名 SRC 报告多份 RCE 漏洞并确认和获得赏金
 
 我获得的一些比较有意义的 CVE
 - CVE-2023-22089 - Oracle WebLogic 9.8分 T3 RCE
