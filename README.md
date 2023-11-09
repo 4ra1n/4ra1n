@@ -2,7 +2,7 @@
 
 我的工作是 `Golang` 安全开发，偶尔研究 `Java` 漏洞
 
-主要开发 `Jar Analyzer V2` (https://jar-analyzer.github.io/)
+主要开发 `Jar Analyzer V2` (https://github.com/jar-analyzer/jar-analyzer)
 
 这是一个进阶版的 `Jar` 分析器，支持 `CFG` 和 `JVM Stack Frame` 分析等多种强大功能
 
