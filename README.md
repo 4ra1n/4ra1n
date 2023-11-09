@@ -8,7 +8,7 @@
 
 主要开发 `OpenJDK 8` 的一个分支 (https://y4sec-team.github.io/jdk8u/)
 
-在该分支中加入更多的安全特性，删除过时的功能进行缩小
+在该分支中加入更多的安全特性
 
 <p align="left">
   <img src="https://count.getloli.com/get/@4ra1n?theme=gelbooru" />
