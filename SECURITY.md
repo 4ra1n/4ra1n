@@ -60,3 +60,4 @@ CVE 类型仅两种：可 RCE / 不可 RCE （其他）
 | 045 | Oracle | WebLogic | [CVE-2023-22069](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
 | 046 | Oracle | WebLogic | [CVE-2023-22086](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
 | 047 | Oracle | WebLogic | [CVE-2023-22089](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
+| 048 | Apache | Derby | [CVE-2022-46337](https://lists.apache.org/thread/q23kvvtoohgzwybxpwozmvvk17rp0td3) | 其他 |
