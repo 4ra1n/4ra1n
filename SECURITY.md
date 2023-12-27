@@ -8,19 +8,6 @@
 - [Oracle 深度安全贡献者（2023年10月）](https://www.oracle.com/security-alerts/cpuoct2023.html)
 - 向国内知名 SRC 报告多份 RCE 漏洞并确认和获得赏金
 
-一些比较有意义的 CVE
-- CVE-2023-22089 - Oracle WebLogic 9.8分 无JDK限制不出网RCE
-- CVE-2023-22069 - Oracle WebLogic 9.8分 无JDK限制出网RCE
-- CVE-2023-22086 - Oracle WebLogic 7.5分 有JDK限制出网RCE
-- CVE-2023-21931 - Oracle WebLogic 7.5分 有JDK限制出网RCE
-- CVE-2023-21839 - Oracle WebLogic 7.5分 有JDK限制出网RCE
-- CVE-2021-45046 - Apache Log4j2 拒绝服务 & RCE
-- CVE-2023-25194 - Apache Kafka 客户端 RCE
-- CVE-2022-32532 - Apache Shiro 权限绕过
-- CVE-2022-29885 - Apache Tomcat 集群拒绝服务
-
-完整的 CVE 列表如下
-
 CVE 类型仅两种：可 RCE / 不可 RCE （其他）
 
 | Index | Vendor |  Product | CVE-ID | Type |
