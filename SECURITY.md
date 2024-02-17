@@ -60,3 +60,4 @@ CVE 类型仅两种：可 RCE / 不可 RCE （其他）
 | 047 | Oracle | WebLogic | [CVE-2023-22089](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
 | 048 | Apache | Derby | [CVE-2022-46337](https://lists.apache.org/thread/q23kvvtoohgzwybxpwozmvvk17rp0td3) | 其他 |
 | 049 | Apache | DolphinScheduler | [CVE-2023-49068](https://lists.apache.org/thread/jn6kr6mjdgtfgpxoq9j8q4pkfsq8zmpq) | 其他 |
+| 050 | Apache | Solr | [CVE-2023-50298](https://solr.apache.org/security.html#cve-2023-50298-apache-solr-can-expose-zookeeper-credentials-via-streaming-expressions) | 其他 |
