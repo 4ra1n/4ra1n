@@ -6,9 +6,11 @@
 - [Oracle 深度安全贡献者（2023年4月）](https://www.oracle.com/security-alerts/cpuapr2023.html)
 - [Oracle 深度安全贡献者（2023年7月）](https://www.oracle.com/security-alerts/cpujul2023.html)
 - [Oracle 深度安全贡献者（2023年10月）](https://www.oracle.com/security-alerts/cpuoct2023.html)
-- 向国内知名 SRC 报告多份 RCE 漏洞并确认和获得赏金
+- 向知名 SRC 报告重要产品 RCE 漏洞并确认获得赏金
 
-CVE 类型仅两种：可 RCE / 不可 RCE （其他）
+为简化 CVE 漏洞类型仅分为两种：
+- 直接或间接可 RCE （RCE）
+- 不可 RCE （其他）
 
 | Index | Vendor |  Product | CVE-ID | Type |
 | :-- | :----- |  :-----  | :----- | :--- |
@@ -51,16 +53,18 @@ CVE 类型仅两种：可 RCE / 不可 RCE （其他）
 | 037 | Apache | Inlong | [CVE-2023-31058](https://www.cve.org/CVERecord?id=CVE-2023-31058) | RCE |
 | 038 | Oracle | WebLogic | [CVE-2023-22031](https://www.oracle.com/security-alerts/cpujul2023.html) | 其他 |
 | 039 | Apache | Inlong | [CVE-2023-34434](https://lists.apache.org/thread/7f1o71w5r732cspltmtdydn01gllf4jo) | 其他 |
-| 041 | Apache | Felix | [CVE-2023-38435](https://lists.apache.org/thread/6qyroszcrwt5sjoxwhxfxb5nvtpr9th1) | 其他 |
-| 042 | Apache | Helix | [CVE-2023-38647](https://lists.apache.org/thread/ozhkchy7ngy8zgjbbn6pfjjh0ppcqvb9) | RCE |
-| 043 | Metabase | Metabase | [CVE-2023-37470](https://github.com/metabase/metabase/security/advisories/GHSA-p7w3-9m58-rq83) | RCE |
-| 044 | Apache | Airflow | [CVE-2023-39553](https://lists.apache.org/thread/tjlwk10odmgcd0t48qpsoprlgny6tbv0) | 其他 |
-| 045 | Oracle | WebLogic | [CVE-2023-22069](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
-| 046 | Oracle | WebLogic | [CVE-2023-22086](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
-| 047 | Oracle | WebLogic | [CVE-2023-22089](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
-| 048 | Apache | Derby | [CVE-2022-46337](https://lists.apache.org/thread/q23kvvtoohgzwybxpwozmvvk17rp0td3) | 其他 |
-| 049 | Apache | DolphinScheduler | [CVE-2023-49068](https://lists.apache.org/thread/jn6kr6mjdgtfgpxoq9j8q4pkfsq8zmpq) | 其他 |
-| 050 | Apache | Solr | [CVE-2023-50298](https://solr.apache.org/security.html#cve-2023-50298-apache-solr-can-expose-zookeeper-credentials-via-streaming-expressions) | 其他 |
-| 051 | Apahce | Dolphinscheduler | [CVE-2023-49109](https://lists.apache.org/thread/5b6yq2gov0fsy9x5dkvo8ws4rr45vkn8) | RCE |
-| 052 | Apache | Dolphinscheduler | [CVE-2023-50270](https://www.cve.org/CVERecord?id=CVE-2023-50270) | 其他 |
+| 040 | Apache | Felix | [CVE-2023-38435](https://lists.apache.org/thread/6qyroszcrwt5sjoxwhxfxb5nvtpr9th1) | 其他 |
+| 041 | Apache | Helix | [CVE-2023-38647](https://lists.apache.org/thread/ozhkchy7ngy8zgjbbn6pfjjh0ppcqvb9) | RCE |
+| 042 | Metabase | Metabase | [CVE-2023-37470](https://github.com/metabase/metabase/security/advisories/GHSA-p7w3-9m58-rq83) | RCE |
+| 043 | Apache | Airflow | [CVE-2023-39553](https://lists.apache.org/thread/tjlwk10odmgcd0t48qpsoprlgny6tbv0) | 其他 |
+| 044 | Oracle | WebLogic | [CVE-2023-22069](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
+| 045 | Oracle | WebLogic | [CVE-2023-22086](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
+| 046 | Oracle | WebLogic | [CVE-2023-22089](https://www.oracle.com/security-alerts/cpuoct2023.html) | RCE |
+| 047 | Apache | Derby | [CVE-2022-46337](https://lists.apache.org/thread/q23kvvtoohgzwybxpwozmvvk17rp0td3) | 其他 |
+| 048 | Apache | DolphinScheduler | [CVE-2023-49068](https://lists.apache.org/thread/jn6kr6mjdgtfgpxoq9j8q4pkfsq8zmpq) | 其他 |
+| 049 | Apache | Solr | [CVE-2023-50298](https://solr.apache.org/security.html#cve-2023-50298-apache-solr-can-expose-zookeeper-credentials-via-streaming-expressions) | 其他 |
+| 050 | Apahce | Dolphinscheduler | [CVE-2023-49109](https://lists.apache.org/thread/5b6yq2gov0fsy9x5dkvo8ws4rr45vkn8) | RCE |
+| 051 | Apache | Dolphinscheduler | [CVE-2023-50270](https://www.cve.org/CVERecord?id=CVE-2023-50270) | 其他 |
+| 052 | Apache | Dolphinscheduler | [CVE-2023-51770](https://lists.apache.org/thread/gpks573kn00ofxn7n9gkg6o47d03p5rw) | 其他 |
 | 053 | Apache | Ambari | [CVE-2023-50379](https://lists.apache.org/thread/jglww6h6ngxpo1r6r5fx7ff7z29lnvv8) | RCE |
+| 054 | Apache | Zeppelin | [CVE-2024-31864](https://lists.apache.org/thread/53fd4m8kpthxpwz6767gqx30tv99g2so) | RCE |
