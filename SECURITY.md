@@ -68,3 +68,4 @@
 | 052 | Apache | Dolphinscheduler | [CVE-2023-51770](https://lists.apache.org/thread/gpks573kn00ofxn7n9gkg6o47d03p5rw) | 其他 |
 | 053 | Apache | Ambari | [CVE-2023-50379](https://lists.apache.org/thread/jglww6h6ngxpo1r6r5fx7ff7z29lnvv8) | RCE |
 | 054 | Apache | Zeppelin | [CVE-2024-31864](https://lists.apache.org/thread/53fd4m8kpthxpwz6767gqx30tv99g2so) | RCE |
+| 055 | Apache | Zeppelin | [CVE-2024-31867](https://lists.apache.org/thread/s4scw8bxdhrjs0kg0lhb68xqd8y9lrtf) | 其他 |
