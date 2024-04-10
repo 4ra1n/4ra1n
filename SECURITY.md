@@ -8,16 +8,14 @@
 - [Oracle 深度安全贡献者（2023年10月）](https://www.oracle.com/security-alerts/cpuoct2023.html)
 - 向知名 SRC 报告重要产品 RCE 漏洞并确认获得赏金
 
+我的 ID 主要有
+- 4ra1n / n1ar4
+- Qing Xu / emyiqing
+- rg (小号)
+
 为简化 CVE 漏洞类型仅分为两种
 - 直接或间接可 RCE （RCE）
 - 不可 RCE （其他）
-
-我的 ID 主要有
-- 4ra1n
-- n1ar4
-- Qing Xu
-- emyiqing
-- rg
 
 | Index | Vendor |  Product | CVE-ID | Type |
 | :-- | :----- |  :-----  | :----- | :--- |
