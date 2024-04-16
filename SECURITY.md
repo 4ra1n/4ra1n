@@ -75,3 +75,4 @@
 | 054 | Apache | Ambari | [CVE-2023-50379](https://lists.apache.org/thread/jglww6h6ngxpo1r6r5fx7ff7z29lnvv8) | RCE |
 | 055 | Apache | Zeppelin | [CVE-2024-31864](https://lists.apache.org/thread/53fd4m8kpthxpwz6767gqx30tv99g2so) | RCE |
 | 056 | Apache | Zeppelin | [CVE-2024-31867](https://lists.apache.org/thread/s4scw8bxdhrjs0kg0lhb68xqd8y9lrtf) | 其他 |
+| 057 | Oracle | WebLogic | [CVE-2024-21006](https://www.oracle.com/security-alerts/cpuapr2024.html) | RCE |
