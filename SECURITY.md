@@ -71,6 +71,7 @@ CVE
 | 055 | Apache | Zeppelin | [CVE-2024-31867](https://lists.apache.org/thread/s4scw8bxdhrjs0kg0lhb68xqd8y9lrtf) | 其他 |
 | 056 | Oracle | WebLogic | [CVE-2024-21006](https://www.oracle.com/security-alerts/cpuapr2024.html) | RCE |
 | 057 | Apache | OFBiz | [CVE-2024-38856](https://lists.apache.org/thread/lmckgos5s5prfdqfctqskkqnpkcgdb06) | RCE |
+| 058 | Oracle | FMW | [CVE-2024-21190](https://www.oracle.com/security-alerts/cpuoct2024.html) | 其他 |
 
 为简化 CVE 漏洞类型仅分为两种
 
