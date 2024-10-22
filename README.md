@@ -18,4 +18,4 @@ Github
 
 常用编程语言
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4ra1n&hide=html,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=4ra1n&hide=html,css&layout=compact)
