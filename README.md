@@ -9,7 +9,7 @@
 主要维护的开源项目：
 
 - 一个 `jar` 文件批量分析工具 (引用搜索/漏洞审计/信息泄露检查/Spring分析/程序分析) [jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)
-- 一个 `class` 文件混淆工具 (方法字段修改/字符串提取/多重异或/多重花指令/隐藏信息) [class-obf](https://github.com/jar-analyzer/class-obf)
+- 一个 `class` 文件混淆工具 (方法字段修改/字符串加密提取/多重异或/多重花指令/隐藏信息) [class-obf](https://github.com/jar-analyzer/class-obf)
 
 Github 贡献统计
 
