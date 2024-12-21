@@ -1,7 +1,6 @@
 # 关于
 
 - 某乙方安全工程师，从事 DAST 相关工作，主要使用 Java Golang 等语言
-- Java 安全爱好者，开源爱好者，略懂漏洞研究和分析，挖过一些没意义的鸡肋洞
 - 本人不参与 HW 活动，若溯源到 4ra1n/n1ar4/EmYiQing/Qing Xu/rg 等 id 与本人无关
 - 若用本人项目进行恶意行为/违法行为/割韭菜等行为，本人概不负责，也与本人无关
 - 本人目前没有做过任何知识付费，没有任何割韭菜行为，本人开源的软件都是免费
@@ -10,6 +9,18 @@
 
 - 一个 `jar` 文件批量分析工具 (引用搜索/漏洞审计/信息泄露检查/Spring分析/程序分析) [jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)
 - 一个 `class` 文件混淆工具 (方法字段修改/字符串加密提取/多重异或/多重花指令/隐藏信息) [class-obf](https://github.com/jar-analyzer/class-obf)
+
+不再维护的项目：
+
+- [code-encryptor - 使用 JNI 加密字节码并通过 JVMTI 解密字节码以保护代码](https://github.com/4ra1n/code-encryptor)
+- [mysql-fake-server - 纯 Java 实现的用于学习 JDBC 漏洞 MySQL Fake Server](https://github.com/4ra1n/mysql-fake-server)
+- [shell-analyzer - 基于 Java Agent 的 GUI 内存马查杀工具](https://github.com/4ra1n/shell-analyzer)
+- [poc-runner - 基于 ANTLR 实现语法分析的超轻量 XRAY YAML 规则引擎](https://github.com/4ra1n/poc-runner)
+- [y4-lang - 不使用任何第三方库从零实现基于 Golang 的中文脚本语言](https://github.com/4ra1n/y4-lang)
+- [java-gate - 使用 JNI 实现地狱之门/光环之门/各种 shellcode 加载](https://github.com/4ra1n/java-gate)
+- [code-inspector - 构建方法调用链并模拟栈帧进行 Java 漏洞分析](https://github.com/4ra1n/code-inspector)
+- [super-xray - 一个 chaitin/xray 项目的 GUI 包装启动器](https://github.com/4ra1n/super-xray)
+- [\_\_asm\_\_ - 一种 Java 代码内联 ASM 代码的实现](https://github.com/4ra1n/__asm__)
 
 Github 贡献统计
 
