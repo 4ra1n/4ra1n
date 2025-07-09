@@ -8,7 +8,7 @@
 
 主要维护的开源项目：
 - 一个 `jar` 文件批量分析工具 (引用搜索/漏洞审计/信息泄露检查/Spring分析/程序分析) [jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)
-- 一个 `class` 混淆工具 (方法名/字段名/参数名混淆/字符串AES加密/异或混淆/垃圾代码混淆) [class-obf](https://github.com/jar-analyzer/class-obf)
+- 一个 `class` 混淆工具 (方法名/字段名/参数名混淆/字符串AES加密/异或混淆/垃圾代码混淆) [class-obf](https://github.com/4ra1n/class-obf)
 - 一个 `jar` 混淆工具 (支持以上混淆方式，针对 JAR 特殊处理，支持 SpringBoot 等) [jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator)
 
 联系我：
