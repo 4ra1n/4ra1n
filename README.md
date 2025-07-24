@@ -1,12 +1,8 @@
 # 关于
 
-我使用过的 id 有：4ra1n | n1ar4 | Qing Xu | emyiqing | rg | ra1lgun
-
 我的博客：https://4ra1n.github.io/
 
-前某乙方安全工程师，主要从事 web 应用安全研究和安全开发相关工作
-
-Jar Analyzer
+Jar Analyzer 项目
 
 - 一个 `JAR` 包分析工具
 - 完善美观的 `GUI` 支持（现代化 `Java GUI` 界面，可拖拽，明暗双主题，十种风格）
@@ -24,11 +20,6 @@ Jar Analyzer
 - 应急响应分析功能（一键提取序列化数据中的恶意 `class` 反编译，一键提取 `BCEL` 代码）
 - 测试功能：不同于 `IDEA` 等工具的源码级调试，实现了字节码级别的单步动态调试（仅初步实现）
 
-主要维护的开源项目：
-- 一个 `jar` 文件批量分析工具 (引用搜索/漏洞审计/信息泄露检查/Spring分析/程序分析) [jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)
-- 一个 `class` 混淆工具 (方法名/字段名/参数名混淆/字符串AES加密/异或混淆/垃圾代码混淆) [class-obf](https://github.com/4ra1n/class-obf)
-- 一个 `jar` 混淆工具 (支持以上混淆方式，针对 JAR 特殊处理，支持 SpringBoot 等) [jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator)
-
 联系我：
 - emyiqing@gmail.com
 - ra1lgun@foxmail.com
@@ -36,7 +27,3 @@ Jar Analyzer
 Github 贡献统计
  
 ![](https://github-readme-stats.vercel.app/api?username=4ra1n&show_icons=true)
- 
-Github 常用编程语言统计
- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4ra1n&hide=html,css&layout=compact)
