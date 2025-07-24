@@ -2,7 +2,7 @@
 
 我的博客：https://4ra1n.github.io/
 
-Jar Analyzer 项目
+[Jar Analyzer](https://github.com/jar-analyzer/jar-analyzer) 项目
 
 - 一个 `JAR` 包分析工具
 - 完善美观的 `GUI` 支持（现代化 `Java GUI` 界面，可拖拽，明暗双主题，十种风格）
