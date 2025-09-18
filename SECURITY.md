@@ -81,3 +81,17 @@ CVE
 | 063 | Apache | Kafka | [CVE-2025-27817](https://lists.apache.org/thread/ok29h7h0l5hwpoq9v4nlfngvzz71ndvs) | 文件读取 |
 | 064 | Apache | Kafka | [CVE-2025-27818](https://lists.apache.org/thread/zc9v12hb4kt2twzxqmhn5t1psp38vbsn) | RCE |
 
+非 `CVE` 安全贡献：存在安全风险，危害过低或无法直接利用，因此没有 `CVE`
+
+-  Spring Framework 权限绕过：官方已修复，但不认为应该分配 CVE
+-  Spring Cloud 多个组件漏洞：官方已修复，更新文档，但不认为应该分配 CVE
+-  Apache Tomcat 权限绕过：官方已修复，但不认为应该分配 CVE
+-  Apache Tomcat 拒绝服务漏洞：官方已修复，但不认为应该分配 CVE
+-  Apache Druid 多个安全漏洞：官方已修复，根本原因是 Kafka 因此不分配 CVE
+-  Apache Flink 存在 Zip Slip 问题：官方已修复，但不认为应该分配 CVE
+-  Apache Skywalking 潜在 SQL 注入：官方已修复，无法直接触发，不分配 CVE
+-  Apache Linkis 存在 Zip Slip 问题：官方已修复，但不认为应该分配 CVE
+-  Apache OpenWhisk 存在 Zip Slip 问题：官方已修复，但不认为应该分配 CVE
+-  Apache CloudStack 潜在反序列化漏洞：官方已修复，无法直接触发，不分配 CVE
+-  Apache Gobblin 潜在反序列化漏洞：官方已修复，无法直接触发，不分配 CVE
+-  Apache OFBiz 拒绝服务漏洞：官方已修复，但不认为应该分配 CVE
