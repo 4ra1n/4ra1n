@@ -97,11 +97,6 @@ CVE
 -  Apache OFBiz 拒绝服务漏洞：官方已修复，由于某些原因没有分配 CVE
 -  更多未统计的开源项目安全贡献......
 
-补充
-
-- OpenJDK 安全公告致谢 - OpenJDK Vulnerability Advisory Acknowledgements
-- Oracle 深度安全贡献者 - Oracle's Security-In-Depth Contributors
-
 安全工具贡献
 
 - https://github.com/chaitin/xray 项目开发者
