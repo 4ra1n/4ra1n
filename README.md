@@ -5,3 +5,7 @@
 联系我：
 - emyiqing@gmail.com
 - ra1lgun@foxmail.com
+
+主要维护开源项目：
+- jar-analyzer
+- class-obf
