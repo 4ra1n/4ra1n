@@ -9,6 +9,7 @@
 - [Oracle 深度安全贡献者（2023年4月）](https://www.oracle.com/security-alerts/cpuapr2023.html)
 - [Oracle 深度安全贡献者（2023年7月）](https://www.oracle.com/security-alerts/cpujul2023.html)
 - [Oracle 深度安全贡献者（2023年10月）](https://www.oracle.com/security-alerts/cpuoct2023.html)
+- [Oracle 深度安全贡献者（2026年1月）](https://www.oracle.com/security-alerts/cpujan2026.html)
 - 曾在某知名 `SRC` 报告一份重要产品 `Pre-Auth RCE` 漏洞并确认
 - 曾在某知名 `BUG BOUNTY` 提交多个关键 `Pre-Auth RCE` 漏洞并确认
 
@@ -80,6 +81,7 @@ CVE
 | 062 | Apache | Ambari | [CVE-2024-51941](https://lists.apache.org/thread/91p3h18mn6dwx93k9fw8tyy37lpwd1y2) | RCE |
 | 063 | Apache | Kafka | [CVE-2025-27817](https://lists.apache.org/thread/ok29h7h0l5hwpoq9v4nlfngvzz71ndvs) | 文件读取 |
 | 064 | Apache | Kafka | [CVE-2025-27818](https://lists.apache.org/thread/zc9v12hb4kt2twzxqmhn5t1psp38vbsn) | RCE |
+| 065 | Apache | Shiro | [CVE-2026-23901](https://lists.apache.org/thread/mm1jct9b86jvnh3y44tj22xvjtx3xhhh) | 其他 |
 
 非 `CVE` 安全贡献：存在安全风险，官方确认并致谢，但由于某些原因没有分配 `CVE`
 
