@@ -2,14 +2,14 @@
 
 一些致谢信息
 
-- [OpenJDK 安全公告致谢（2023年1月）](https://openjdk.org/groups/vulnerability/advisories/2023-01-17)
-- [OpenJDK 安全公告致谢（2023年7月）](https://openjdk.org/groups/vulnerability/advisories/2023-07-18)
+- [OpenJDK 安全公告致谢（2023年01月）](https://openjdk.org/groups/vulnerability/advisories/2023-01-17)
+- [OpenJDK 安全公告致谢（2023年07月）](https://openjdk.org/groups/vulnerability/advisories/2023-07-18)
 - [Oracle 深度安全贡献者（2022年10月）](https://www.oracle.com/security-alerts/cpuoct2022.html)
-- [Oracle 深度安全贡献者（2023年1月）](https://www.oracle.com/security-alerts/cpujan2023.html)
-- [Oracle 深度安全贡献者（2023年4月）](https://www.oracle.com/security-alerts/cpuapr2023.html)
-- [Oracle 深度安全贡献者（2023年7月）](https://www.oracle.com/security-alerts/cpujul2023.html)
+- [Oracle 深度安全贡献者（2023年01月）](https://www.oracle.com/security-alerts/cpujan2023.html)
+- [Oracle 深度安全贡献者（2023年04月）](https://www.oracle.com/security-alerts/cpuapr2023.html)
+- [Oracle 深度安全贡献者（2023年07月）](https://www.oracle.com/security-alerts/cpujul2023.html)
 - [Oracle 深度安全贡献者（2023年10月）](https://www.oracle.com/security-alerts/cpuoct2023.html)
-- [Oracle 深度安全贡献者（2026年1月）](https://www.oracle.com/security-alerts/cpujan2026.html)
+- [Oracle 深度安全贡献者（2026年01月）](https://www.oracle.com/security-alerts/cpujan2026.html)
 - 曾在某知名 `SRC` 报告一份重要产品 `Pre-Auth RCE` 漏洞并确认
 - 曾在某知名 `BUG BOUNTY` 提交多个关键 `Pre-Auth RCE` 漏洞并确认
 
