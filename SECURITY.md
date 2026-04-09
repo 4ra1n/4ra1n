@@ -1,6 +1,8 @@
 ## 关于
 
-我使用过的 id 有：4ra1n | n1ar4 | Qing Xu | emyiqing | rg | ra1lgun
+我使用过的 id 有：4ra1n | 4ra2n | n1ar4 | Qing Xu | emyiqing | rg | ra1lgun
+
+我开发了一个 AI 代码审计 Agent 名为 4ra2n （由 AI 审计的成果以 4ra2n 提交）
 
 ## 致谢信息
 
@@ -90,6 +92,9 @@
 | 063 | Apache | Kafka | [CVE-2025-27817](https://lists.apache.org/thread/ok29h7h0l5hwpoq9v4nlfngvzz71ndvs) | 文件读取 |
 | 064 | Apache | Kafka | [CVE-2025-27818](https://lists.apache.org/thread/zc9v12hb4kt2twzxqmhn5t1psp38vbsn) | RCE |
 | 065 | Apache | Shiro | [CVE-2026-23901](https://lists.apache.org/thread/mm1jct9b86jvnh3y44tj22xvjtx3xhhh) | 其他 |
+| 066 | Apache | OpenMeetings | [CVE-2026-34020](https://lists.apache.org/thread/jn6qvcs8g0gv46oso0pb9fk3xvq9wz1h) | 信息泄露 |
+| 067 | Apache | OpenMeetings | [CVE-2026-33266](https://lists.apache.org/thread/vrjg6o9c1nnmhn64vr316voph303lt4c) | 信息泄露 |
+| 068 | Apache | OpenMeetings | [CVE-2026-33005](https://lists.apache.org/thread/d5mcsdvdm1yj62bk68rl5890lopf6w94) | 逻辑漏洞 |
 
 ## SRC
 
