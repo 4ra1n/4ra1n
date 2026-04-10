@@ -106,6 +106,7 @@
 非 `CVE` 安全贡献：存在安全风险，官方确认并致谢，但由于某些原因没有分配 `CVE`
 
 -  Spring Framework 权限绕过：官方已修复，由于某些原因没有分配 CVE
+-  Golang 某内部包存在 OOM 问题：官方已修复，由于需要本地触发没有分配 CVE
 -  Spring Cloud 多个组件潜在漏洞：官方已修复，由于某些原因没有分配 CVE
 -  Apache Tomcat 权限绕过：官方已修复，由于某些原因没有分配 CVE
 -  Apache Tomcat 拒绝服务漏洞：官方认为需要修复，由于某些原因没有分配 CVE
