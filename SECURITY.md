@@ -95,6 +95,9 @@
 | 066 | Apache | OpenMeetings | [CVE-2026-34020](https://lists.apache.org/thread/jn6qvcs8g0gv46oso0pb9fk3xvq9wz1h) | 信息泄露 |
 | 067 | Apache | OpenMeetings | [CVE-2026-33266](https://lists.apache.org/thread/vrjg6o9c1nnmhn64vr316voph303lt4c) | 信息泄露 |
 | 068 | Apache | OpenMeetings | [CVE-2026-33005](https://lists.apache.org/thread/d5mcsdvdm1yj62bk68rl5890lopf6w94) | 逻辑漏洞 |
+| 069 | Oracle | MySQL | [CVE-2026-34317](https://www.oracle.com/security-alerts/cpuapr2026.html) | DoS |
+| 070 | Oracle | MySQL | [CVE-2026-34318](https://www.oracle.com/security-alerts/cpuapr2026.html) | 信息泄露 |
+| 071 | Oracle | MySQL | [CVE-2026-34319](https://www.oracle.com/security-alerts/cpuapr2026.html) | DoS |
 
 ## SRC
 
