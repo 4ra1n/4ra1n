@@ -36,7 +36,7 @@
 | Oracle | WebLogic | [CVE-2022-21616](https://www.oracle.com/security-alerts/cpuoct2022.html) | 拒绝服务 | 5.2 MEDIUM | 
 | Oracle | SOA Suite | [CVE-2022-21622](https://www.oracle.com/security-alerts/cpuoct2022.html) | RCE | 7.5 HIGH |
 | Oracle | Enterprise Manager | [CVE-2022-21623](https://www.oracle.com/security-alerts/cpuoct2022.html) | RCE | 7.5 HIGH |
-| Apache | Causeway | [CVE-2022-42466](https://lists.apache.org/thread/m3qvks78moblh7q2nbbhc5mzy9ckcrcn) | XSS | 6.1 MEDIUM |
+| Apache | Causeway | [CVE-2022-42466](https://lists.apache.org/thread/m3qvks78moblh7q2nbbhc5mzy9ckcrcn) | 存储XSS | 6.1 MEDIUM |
 | Apache | Batik | [CVE-2022-41704](https://lists.apache.org/thread/4ybxj4vk0vqoj1hwjmvqdhf780cqzh8p) | RCE | 7.5 HIGH |
 | Apache | Batik | [CVE-2022-42890](https://lists.apache.org/thread/xrfth92gq7hz896l4fygjwq31yrn2xsz) | RCE | 7.5 HIGH |
 | Apache | ManifoldCF | [CVE-2022-45910](https://lists.apache.org/thread/ps32gd7y5cqtzz73kszsdxkk63oxqnso) | 信息泄露 | 5.3 MEDIUM |
@@ -82,6 +82,8 @@
 | DataEase | DataEase | [CVE-2026-45532](https://github.com/dataease/dataease/security/advisories/GHSA-2mqc-w4hm-f3p9) | 路径遍历 | / |
 | DataEase | DataEase | [CVE-2026-45419](https://github.com/dataease/dataease/security/advisories/GHSA-83fh-fgh3-g9f9) | 任意文件写入 | / |
 | DataEase | DataEase | [CVE-2026-45417](https://github.com/dataease/dataease/security/advisories/GHSA-rg6c-r9mv-39fr) | SQL注入 | / |
+| Apache | ActiveMQ | [CVE-2026-42588](https://lists.apache.org/thread/8dw2wyojfkxhk45sqnbbqpswcxvh7zf7) | RCE | / |
+| Apache | ActiveMQ | [CVE-2026-42253](https://lists.apache.org/thread/rh0nr6shwhgpyhg4xlrkslznc57m87xy) | 存储XSS | / |
 
 非 `CVE` 问题，官方已确认和修复
 
