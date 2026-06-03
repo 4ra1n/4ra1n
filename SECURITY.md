@@ -1,6 +1,6 @@
 ## 关于
 
-本页面记录一些安全相关的成果，并非全部的成果，仅记录大部分有意义的
+本页面记录一些安全相关的成果
 
 ## 致谢信息
 
@@ -16,8 +16,6 @@
 ## CVE
 
 以下大部分是我独立发现的 `CVE` 漏洞，部分和朋友合作发现，感谢我的朋友们
-
-我认为古法时代的成果，是真实技术的体现，在 `AI` 时代谁都可以容易地审出新漏洞
 
 > 只保留高价值产品或有意义的 `CVE` 编号，并不是所有编号，我删除了部分低价值记录
 
@@ -84,19 +82,14 @@
 | DataEase | DataEase | [CVE-2026-45417](https://github.com/dataease/dataease/security/advisories/GHSA-rg6c-r9mv-39fr) | SQL注入 | / |
 | Apache | ActiveMQ | [CVE-2026-42588](https://lists.apache.org/thread/8dw2wyojfkxhk45sqnbbqpswcxvh7zf7) | RCE | 8.1 HIGH |
 | Apache | ActiveMQ | [CVE-2026-42253](https://lists.apache.org/thread/rh0nr6shwhgpyhg4xlrkslznc57m87xy) | 存储XSS | 6.1 MEDIUM |
-| Apache | Calcite | [CVE-2026-46718](https://lists.apache.org/thread/qb3bdfd0n15tq73vz8y3x4bry0oswz3b) | RCE | / |
-
-非 `CVE` 问题，官方已确认和修复
-
-| Vendor |  Product | Link | Type |
-| :----- |  :-----  | :----- | :--- |
-| MariaDB | MariaDB | [MDEV-39319](https://jira.mariadb.org/browse/MDEV-39319) | Crash | 
-| MariaDB | MariaDB | [MDEV-39210](https://jira.mariadb.org/browse/MDEV-39210) | Crash |
+| Apache | Calcite | [CVE-2026-46718](https://lists.apache.org/thread/qb3bdfd0n15tq73vz8y3x4bry0oswz3b) | RCE | 6.5 MEDIUM |
 
 ### 补充
 
 我认为，只有官方发布的 `CVE` 安全公告才是 **有价值** 的 `CVE` 
 
 而通过 `MITRE` 表单/邮件等方式自行申请的 `CVE` 编号 **不属于有价值** 的 `CVE`
+
+我认为古法时代（2026 年以前）的成果，是真实技术的体现，在 `AI` 时代谁都可以容易地审出新漏洞
 
 特例除外，仅绝大多数情况下
