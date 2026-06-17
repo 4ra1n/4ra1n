@@ -73,9 +73,9 @@
 | Apache | OpenMeetings | [CVE-2026-34020](https://lists.apache.org/thread/jn6qvcs8g0gv46oso0pb9fk3xvq9wz1h) | 信息泄露 | 7.5 HIGH |
 | Apache | OpenMeetings | [CVE-2026-33266](https://lists.apache.org/thread/vrjg6o9c1nnmhn64vr316voph303lt4c) | 信息泄露 | 7.5 HIGH |
 | Apache | OpenMeetings | [CVE-2026-33005](https://lists.apache.org/thread/d5mcsdvdm1yj62bk68rl5890lopf6w94) | 逻辑漏洞 | 4.3 MEDIUM |
-| Oracle | MySQL | [CVE-2026-34317](https://www.oracle.com/security-alerts/cpuapr2026.html) | 堆栈溢出 | 5.0 MEDIUM |
+| Oracle | MySQL | [CVE-2026-34317](https://www.oracle.com/security-alerts/cpuapr2026.html) | 拒绝服务 | 5.0 MEDIUM |
 | Oracle | MySQL | [CVE-2026-34318](https://www.oracle.com/security-alerts/cpuapr2026.html) | 信息泄露 | 5.8 MEDIUM |
-| Oracle | MySQL | [CVE-2026-34319](https://www.oracle.com/security-alerts/cpuapr2026.html) | 堆栈溢出 | 5.0 MEDIUM |
+| Oracle | MySQL | [CVE-2026-34319](https://www.oracle.com/security-alerts/cpuapr2026.html) | 拒绝服务 | 5.0 MEDIUM |
 | DataEase | DataEase | [CVE-2026-45534](https://github.com/dataease/dataease/security/advisories/GHSA-cv4c-8rpv-2x97) | RCE | / |
 | DataEase | DataEase | [CVE-2026-45532](https://github.com/dataease/dataease/security/advisories/GHSA-2mqc-w4hm-f3p9) | 路径遍历 | / |
 | DataEase | DataEase | [CVE-2026-45419](https://github.com/dataease/dataease/security/advisories/GHSA-83fh-fgh3-g9f9) | 任意文件写入 | / |
@@ -83,7 +83,7 @@
 | Apache | ActiveMQ | [CVE-2026-42588](https://lists.apache.org/thread/8dw2wyojfkxhk45sqnbbqpswcxvh7zf7) | RCE | 8.1 HIGH |
 | Apache | ActiveMQ | [CVE-2026-42253](https://lists.apache.org/thread/rh0nr6shwhgpyhg4xlrkslznc57m87xy) | 存储XSS | 6.1 MEDIUM |
 | Apache | Calcite | [CVE-2026-46718](https://lists.apache.org/thread/qb3bdfd0n15tq73vz8y3x4bry0oswz3b) | RCE | 6.5 MEDIUM |
-| Oracle | MySQL | [CVE-2026-46863](https://www.oracle.com/security-alerts/cspujun2026.html) | 内存问题 | 7.5 HIGH |
+| Oracle | MySQL | [CVE-2026-46863](https://www.oracle.com/security-alerts/cspujun2026.html) | 拒绝服务 | 7.5 HIGH |
 
 ### 补充
 
