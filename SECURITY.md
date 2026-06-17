@@ -83,7 +83,7 @@
 | Apache | ActiveMQ | [CVE-2026-42588](https://lists.apache.org/thread/8dw2wyojfkxhk45sqnbbqpswcxvh7zf7) | RCE | 8.1 HIGH |
 | Apache | ActiveMQ | [CVE-2026-42253](https://lists.apache.org/thread/rh0nr6shwhgpyhg4xlrkslznc57m87xy) | 存储XSS | 6.1 MEDIUM |
 | Apache | Calcite | [CVE-2026-46718](https://lists.apache.org/thread/qb3bdfd0n15tq73vz8y3x4bry0oswz3b) | RCE | 6.5 MEDIUM |
-| Oracke | MySQL | [CVE-2026-46863](https://www.oracle.com/security-alerts/cspujun2026.html) | 内存问题 | 7.5 HIGH |
+| Oracle | MySQL | [CVE-2026-46863](https://www.oracle.com/security-alerts/cspujun2026.html) | 内存问题 | 7.5 HIGH |
 
 ### 补充
 
