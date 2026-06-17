@@ -19,7 +19,7 @@
 
 > 只保留高价值产品或有意义的 `CVE` 编号，并不是所有编号，我删除了部分低价值记录
 
-| Vendor |  Product | CVE-ID | Type | CVSS 3 (NVD) |
+| Vendor |  Product | CVE-ID | Type | CVSS 3 (官方/NVD) |
 | :----- |  :-----  | :----- | :--- | :--- |
 | Apache | Log4j2 | [CVE-2021-45046](https://logging.apache.org/security.html#CVE-2021-45046) | RCE | 9.0 CRITICAL |
 | Spring | Spring Framework | [CVE-2022-22950](https://spring.io/security/cve-2022-22950) | 拒绝服务 | 6.5 MEDIUM | 
@@ -76,10 +76,10 @@
 | Oracle | MySQL | [CVE-2026-34317](https://www.oracle.com/security-alerts/cpuapr2026.html) | 拒绝服务 | 5.0 MEDIUM |
 | Oracle | MySQL | [CVE-2026-34318](https://www.oracle.com/security-alerts/cpuapr2026.html) | 信息泄露 | 5.8 MEDIUM |
 | Oracle | MySQL | [CVE-2026-34319](https://www.oracle.com/security-alerts/cpuapr2026.html) | 拒绝服务 | 5.0 MEDIUM |
-| DataEase | DataEase | [CVE-2026-45534](https://github.com/dataease/dataease/security/advisories/GHSA-cv4c-8rpv-2x97) | RCE | / |
-| DataEase | DataEase | [CVE-2026-45532](https://github.com/dataease/dataease/security/advisories/GHSA-2mqc-w4hm-f3p9) | 路径遍历 | / |
-| DataEase | DataEase | [CVE-2026-45419](https://github.com/dataease/dataease/security/advisories/GHSA-83fh-fgh3-g9f9) | 任意文件写入 | / |
-| DataEase | DataEase | [CVE-2026-45417](https://github.com/dataease/dataease/security/advisories/GHSA-rg6c-r9mv-39fr) | SQL注入 | / |
+| DataEase | DataEase | [CVE-2026-45534](https://github.com/dataease/dataease/security/advisories/GHSA-cv4c-8rpv-2x97) | RCE | HIGH |
+| DataEase | DataEase | [CVE-2026-45532](https://github.com/dataease/dataease/security/advisories/GHSA-2mqc-w4hm-f3p9) | 路径遍历 | HIGH |
+| DataEase | DataEase | [CVE-2026-45419](https://github.com/dataease/dataease/security/advisories/GHSA-83fh-fgh3-g9f9) | 任意文件写入 | HIGH |
+| DataEase | DataEase | [CVE-2026-45417](https://github.com/dataease/dataease/security/advisories/GHSA-rg6c-r9mv-39fr) | SQL注入 | HIGH |
 | Apache | ActiveMQ | [CVE-2026-42588](https://lists.apache.org/thread/8dw2wyojfkxhk45sqnbbqpswcxvh7zf7) | RCE | 8.1 HIGH |
 | Apache | ActiveMQ | [CVE-2026-42253](https://lists.apache.org/thread/rh0nr6shwhgpyhg4xlrkslznc57m87xy) | 存储XSS | 6.1 MEDIUM |
 | Apache | Calcite | [CVE-2026-46718](https://lists.apache.org/thread/qb3bdfd0n15tq73vz8y3x4bry0oswz3b) | RCE | 6.5 MEDIUM |
