@@ -2,6 +2,10 @@
 
 本页面记录一些安全相关的成果
 
+- 一般 `credit` 是：4ra1n
+- 部分 AI 发现漏洞 `credit` 是：4ra2n
+- 部分 `credit` 是：Qing Xu
+
 ## 致谢信息
 
 - [OpenJDK 安全公告致谢（2023年01月）](https://openjdk.org/groups/vulnerability/advisories/2023-01-17)
