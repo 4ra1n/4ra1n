@@ -88,8 +88,8 @@
 | Apache | ActiveMQ | [CVE-2026-42253](https://lists.apache.org/thread/rh0nr6shwhgpyhg4xlrkslznc57m87xy) | 存储XSS | 6.1 MEDIUM |
 | Apache | Calcite | [CVE-2026-46718](https://lists.apache.org/thread/qb3bdfd0n15tq73vz8y3x4bry0oswz3b) | RCE | 6.5 MEDIUM |
 | Oracle | MySQL | [CVE-2026-46863](https://www.oracle.com/security-alerts/cspujun2026.html) | 拒绝服务 | 7.5 HIGH |
-| Apache | Kvrocks | [CVE-2026-46751](https://lists.apache.org/thread/rwrb0sz8bdg665cx6jmgxzozwq8bppom) | 拒绝服务 | / |
-| Apache | Kvrocks | [CVE-2026-41566](https://lists.apache.org/thread/njqjzkczgr17c9rdfbcfvxlqxtmpgxcg) | 逻辑漏洞 | / |
+| Apache | Kvrocks | [CVE-2026-46751](https://lists.apache.org/thread/rwrb0sz8bdg665cx6jmgxzozwq8bppom) | 拒绝服务 | 5.1 MEDIUM |
+| Apache | Kvrocks | [CVE-2026-41566](https://lists.apache.org/thread/njqjzkczgr17c9rdfbcfvxlqxtmpgxcg) | 逻辑漏洞 | 9.4 CRITICAL |
 
 ### 补充
 
