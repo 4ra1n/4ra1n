@@ -6,6 +6,8 @@ Currently unaffiliated with any company or organization
 
 My Blog: https://4ra1n.github.io
 
+jar-analyzer jsd 项目: jar-analyzer.github.io/jsd/
+
 ---
 
 My CVE and Acknowledgments: [SECURITY-en.md](https://github.com/4ra1n/4ra1n/blob/main/SECURITY-en.md)
