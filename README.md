@@ -6,7 +6,7 @@ Currently unaffiliated with any company or organization
 
 My Blog: https://4ra1n.github.io
 
-jar-analyzer jsd 项目: jar-analyzer.github.io/jsd/
+jar-analyzer jsd 项目: https://jar-analyzer.github.io/jsd/
 
 ---
 
