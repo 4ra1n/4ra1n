@@ -101,3 +101,7 @@
 | Apache | Tomcat | [CVE-2026-65905](https://lists.apache.org/thread/qbq555o6722xw4t37l28y03h4x1cnyzx) | Replay Attack |
 | Apache | Tomcat | [CVE-2026-65182](https://lists.apache.org/thread/bn0mtpf9p54to6lnm0r07lt9jlvp0goj) | Security Constraint Bypass |
 | Apache | Doris | [CVE-2026-31377](https://lists.apache.org/thread/dyzflvn3l2cdg79msyopwtg30vbvbnvp) | Improper Authentication |
+| Apache | APR | [CVE-2026-32327](https://lists.apache.org/thread/hq27vj8yfno9tkwv0fpj6jksfzgxvth1) | Denial of Service |
+| Apache | HTTP Server | [CVE-2026-46729](https://lists.apache.org/thread/2ynjjk8jj9o6xkgp1glp5439lfvp4ohn) | Denial of Service |
+| Apache | HTTP Server | [CVE-2026-63045](https://lists.apache.org/thread/61obl7l634zm9p0dklxzc9c859pkbygd) | Improper Validation |
+| Apache | HTTP Server | [CVE-2026-63718](https://lists.apache.org/thread/75octch0556n7mr3ctcs3q7zw5rs79kk) | HTTP Smuggling |
