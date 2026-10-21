@@ -113,3 +113,11 @@
 | Eclipse | Jetty | [CVE-2026-18662](https://github.com/jetty/jetty.project/security/advisories/GHSA-phjh-v7c6-g7mv) |
 | Eclipse | Jetty | [CVE-2026-18661](https://github.com/jetty/jetty.project/security/advisories/GHSA-v6xf-996f-c35f) |
 | Apache | CouchDB | [CVE-2026-90800](https://lists.apache.org/thread/wlv29sd6mvkvj0mb9rfs5clvpkmw0sgv) |
+| Oracle | MySQL | [CVE-2026-101725](https://www.oracle.com/security-alerts/cpuoct2026.html) |
+| Oracle | MySQL | [CVE-2026-101726](https://www.oracle.com/security-alerts/cpuoct2026.html) |
+| Oracle | MySQL | [CVE-2026-101727](https://www.oracle.com/security-alerts/cpuoct2026.html) |
+| Oracle | MySQL | [CVE-2026-101728](https://www.oracle.com/security-alerts/cpuoct2026.html) |
+| Oracle | MySQL | [CVE-2026-101729](https://www.oracle.com/security-alerts/cpuoct2026.html) |
+| Oracle | Java SE | [CVE-2026-83395](https://www.oracle.com/security-alerts/cpuoct2026.html) |
+| Oracle | Java SE | [CVE-2026-87367](https://www.oracle.com/security-alerts/cpuoct2026.html) |
+| Oracle | Java SE | [CVE-2026-91394](https://www.oracle.com/security-alerts/cpuoct2026.html) |
