@@ -3,6 +3,7 @@
 - [OpenJDK Security Advisory Acknowledgment (January 2023)](https://openjdk.org/groups/vulnerability/advisories/2023-01-17)
 - [OpenJDK Security Advisory Acknowledgment (July 2023)](https://openjdk.org/groups/vulnerability/advisories/2023-07-18)
 - [OpenJDK Security Advisory Acknowledgment (July 2026)](https://openjdk.org/groups/vulnerability/advisories/2026-07-21)
+- [OpenJDK Security Advisory Acknowledgment (October 2026)](https://openjdk.org/groups/vulnerability/advisories/2026-10-20)
 - [Oracle Security-in-Depth Contributor (October 2022)](https://www.oracle.com/security-alerts/cpuoct2022.html)
 - [Oracle Security-in-Depth Contributor (January 2023)](https://www.oracle.com/security-alerts/cpujan2023.html)
 - [Oracle Security-in-Depth Contributor (April 2023)](https://www.oracle.com/security-alerts/cpuapr2023.html)
