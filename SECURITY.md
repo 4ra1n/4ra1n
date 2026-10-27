@@ -119,6 +119,7 @@
 | Oracle | MySQL | [CVE-2026-101727](https://www.oracle.com/security-alerts/cpuoct2026.html) |
 | Oracle | MySQL | [CVE-2026-101728](https://www.oracle.com/security-alerts/cpuoct2026.html) |
 | Oracle | MySQL | [CVE-2026-101729](https://www.oracle.com/security-alerts/cpuoct2026.html) |
+| Oracle | MySQL Connectors | [CVE-2026-101768](https://www.oracle.com/security-alerts/cpuoct2026.html) |
 | Oracle | Java SE | [CVE-2026-83395](https://www.oracle.com/security-alerts/cpuoct2026.html) |
 | Oracle | Java SE | [CVE-2026-87367](https://www.oracle.com/security-alerts/cpuoct2026.html) |
 | Oracle | Java SE | [CVE-2026-91394](https://www.oracle.com/security-alerts/cpuoct2026.html) |
