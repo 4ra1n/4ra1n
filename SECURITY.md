@@ -124,3 +124,5 @@
 | Oracle | Java SE | [CVE-2026-87367](https://www.oracle.com/security-alerts/cpuoct2026.html) | / |
 | Oracle | Java SE | [CVE-2026-91394](https://www.oracle.com/security-alerts/cpuoct2026.html) | / |
 | Amazon | Redshift JDBC | [CVE-2026-119084](https://aws.amazon.com/cn/security/security-bulletins/2026-168-aws/) | RCE |
+| PostgreSQL | PostgreSQL | [CVE-2026-16237](https://www.postgresql.org/docs/release/18.7/#RELEASE-18-7-CHANGES)| / |
+| PostgreSQL | PostgreSQL | [CVE-2026-120154](https://www.postgresql.org/docs/release/18.7/#RELEASE-18-7-CHANGES)| / |
