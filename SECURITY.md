@@ -1,17 +1,38 @@
 ## Acknowledgments
 
-- [OpenJDK Security Advisory Acknowledgment (January 2023)](https://openjdk.org/groups/vulnerability/advisories/2023-01-17)
-- [OpenJDK Security Advisory Acknowledgment (July 2023)](https://openjdk.org/groups/vulnerability/advisories/2023-07-18)
-- [OpenJDK Security Advisory Acknowledgment (July 2026)](https://openjdk.org/groups/vulnerability/advisories/2026-07-21)
-- [OpenJDK Security Advisory Acknowledgment (October 2026)](https://openjdk.org/groups/vulnerability/advisories/2026-10-20)
-- [Oracle Security-in-Depth Contributor (October 2022)](https://www.oracle.com/security-alerts/cpuoct2022.html)
-- [Oracle Security-in-Depth Contributor (January 2023)](https://www.oracle.com/security-alerts/cpujan2023.html)
-- [Oracle Security-in-Depth Contributor (April 2023)](https://www.oracle.com/security-alerts/cpuapr2023.html)
-- [Oracle Security-in-Depth Contributor (July 2023)](https://www.oracle.com/security-alerts/cpujul2023.html)
-- [Oracle Security-in-Depth Contributor (October 2023)](https://www.oracle.com/security-alerts/cpuoct2023.html)
-- [Oracle Security-in-Depth Contributor (January 2026)](https://www.oracle.com/security-alerts/cpujan2026.html)
+- [OpenJDK 安全公告致谢 (January 2023)](https://openjdk.org/groups/vulnerability/advisories/2023-01-17)
+- [OpenJDK 安全公告致谢 (July 2023)](https://openjdk.org/groups/vulnerability/advisories/2023-07-18)
+- [OpenJDK 安全公告致谢 (July 2026)](https://openjdk.org/groups/vulnerability/advisories/2026-07-21)
+- [OpenJDK 安全公告致谢 (October 2026)](https://openjdk.org/groups/vulnerability/advisories/2026-10-20)
+- [Oracle 深度安全贡献者 (October 2022)](https://www.oracle.com/security-alerts/cpuoct2022.html)
+- [Oracle 深度安全贡献者 (January 2023)](https://www.oracle.com/security-alerts/cpujan2023.html)
+- [Oracle 深度安全贡献者 (April 2023)](https://www.oracle.com/security-alerts/cpuapr2023.html)
+- [Oracle 深度安全贡献者 (July 2023)](https://www.oracle.com/security-alerts/cpujul2023.html)
+- [Oracle 深度安全贡献者 (October 2023)](https://www.oracle.com/security-alerts/cpuoct2023.html)
+- [Oracle 深度安全贡献者 (January 2026)](https://www.oracle.com/security-alerts/cpujan2026.html)
 
 ## My CVEs
+
+截至目前，我共计获得了 **111** 个知名产品的 CVE 致谢，包括厂商：
+
+- **Oracle**
+- **Apache**
+- **IBM**
+- **Eclipse**
+- **Amazon**
+- **PostgreSQL**
+- **Spring**
+
+发现过以下重要产品的漏洞：
+
+- **Oracle WebLogic** (15 个 CVE 包含多个 RCE)
+- **Apache Tomcat** (7 个 CVE)
+- **Apache HTTP Server** (3 个 CVE)
+- **Apache Kafka** (3 个 CVE 包含 RCE)
+- **Apache ActiveMQ** (2 个 CVE 包含 RCE)
+- **Oracle MySQL** / **PostgreSQL** / **JDK** / ...
+
+`2026` 年以前的古法时代，人工发现共 `56` 个
 
 | Vendor | Product | CVE-ID | RCE? |
 | :----- | :------ | :----- | :-- |
@@ -71,6 +92,11 @@
 | Apache | Zeppelin | [CVE-2024-31867](https://lists.apache.org/thread/xfvzrm9btw2jmthfblx5qb2848f21gby) | / |
 | Apache | Kafka | [CVE-2025-27817](https://lists.apache.org/thread/ok29h7h0l5hwpoq9v4nlfngvzz71ndvs) | / |
 | Apache | Kafka | [CVE-2025-27818](https://lists.apache.org/thread/zc9v12hb4kt2twzxqmhn5t1psp38vbsn) | RCE |
+
+2026 年以后，使用 AI 辅助发现共 `55` 个
+
+| Vendor | Product | CVE-ID | RCE? |
+| :----- | :------ | :----- | :-- |
 | Apache | Shiro | [CVE-2026-23901](https://lists.apache.org/thread/mm1jct9b86jvnh3y44tj22xvjtx3xhhh) | / |
 | Apache | OpenMeetings | [CVE-2026-34020](https://lists.apache.org/thread/jn6qvcs8g0gv46oso0pb9fk3xvq9wz1h) | / |
 | Apache | OpenMeetings | [CVE-2026-33266](https://lists.apache.org/thread/vrjg6o9c1nnmhn64vr316voph303lt4c) | / |
