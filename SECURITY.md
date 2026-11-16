@@ -32,7 +32,7 @@
 - **Apache ActiveMQ** (2 个 CVE 包含 RCE)
 - **Oracle MySQL** / **PostgreSQL** / **JDK** / ...
 
-2026 年以前的古法时代，人工发现共 - **Oracle WebLogic** (15 个 CVE 包含多个 RCE) 个
+2026 年以前的古法时代，人工发现共 **56** 个
 
 | Vendor | Product | CVE-ID | RCE? |
 | :----- | :------ | :----- | :-- |
