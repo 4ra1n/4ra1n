@@ -32,7 +32,7 @@
 - **Apache ActiveMQ** (2 个 CVE 包含 RCE)
 - **Oracle MySQL** / **PostgreSQL** / **JDK** / ...
 
-`2026` 年以前的古法时代，人工发现共 `56` 个
+2026 年以前的古法时代，人工发现共 - **Oracle WebLogic** (15 个 CVE 包含多个 RCE) 个
 
 | Vendor | Product | CVE-ID | RCE? |
 | :----- | :------ | :----- | :-- |
@@ -93,7 +93,7 @@
 | Apache | Kafka | [CVE-2025-27817](https://lists.apache.org/thread/ok29h7h0l5hwpoq9v4nlfngvzz71ndvs) | / |
 | Apache | Kafka | [CVE-2025-27818](https://lists.apache.org/thread/zc9v12hb4kt2twzxqmhn5t1psp38vbsn) | RCE |
 
-2026 年以后，使用 AI 辅助发现共 `55` 个
+2026 年以后，使用 AI 辅助发现共 **55** 个
 
 | Vendor | Product | CVE-ID | RCE? |
 | :----- | :------ | :----- | :-- |
