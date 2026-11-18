@@ -1,5 +1,7 @@
 ## Acknowledgments
 
+厂商致谢
+
 - [OpenJDK 安全公告致谢 (January 2023)](https://openjdk.org/groups/vulnerability/advisories/2023-01-17)
 - [OpenJDK 安全公告致谢 (July 2023)](https://openjdk.org/groups/vulnerability/advisories/2023-07-18)
 - [OpenJDK 安全公告致谢 (July 2026)](https://openjdk.org/groups/vulnerability/advisories/2026-07-21)
@@ -11,9 +13,33 @@
 - [Oracle 深度安全贡献者 (October 2023)](https://www.oracle.com/security-alerts/cpuoct2023.html)
 - [Oracle 深度安全贡献者 (January 2026)](https://www.oracle.com/security-alerts/cpujan2026.html)
 
+Bug Bounty
+
+- 在 Microsoft Security Response Center (MSRC) 提交漏洞并获得赏金
+- 在 Alibaba Security Response Center (ASRC) 提交漏洞并获得赏金
+- 在 Bugcrowd 和 HackerOne 提交漏洞并获得赏金
+
 ## My CVEs
 
-截至目前，我共计获得了 **111** 个知名产品的 CVE 致谢
+截至目前，我共计获得了 **111** 个知名产品的 CVE 致谢，包括厂商：
+
+- **Oracle**
+- **Apache**
+- **IBM**
+- **Eclipse**
+- **Amazon**
+- **PostgreSQL**
+- **Spring**
+
+发现过以下重要产品的漏洞：
+
+- **Oracle WebLogic** (15 个 CVE 包含多个 RCE)
+- **Apache Tomcat** (7 个 CVE)
+- **Apache HTTP Server** (3 个 CVE)
+- **Apache Kafka** (3 个 CVE 包含 RCE)
+- **Apache ActiveMQ** (2 个 CVE 包含 RCE)
+- **多个知名数据库 JDBC RCE CVE**
+- **Oracle MySQL** / **PostgreSQL** / **Java** / ...
 
 2026 年以前的古法时代，人工分析发现共 **56** 个 CVE
 
